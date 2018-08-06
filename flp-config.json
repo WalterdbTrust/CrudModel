@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "ModelCrud.CrudModel",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#CrudModel-Display",
+        "navigationComponentName": "ModelCrud",
+        "intentSemanticObject": "CrudModel",
+        "intentAction": "Display",
+        "html5ApplicationName": "crudmodel",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "27bdb2f7-f2e1-45b3-8a26-cb4449c6f458-1510669360819"
+        ],
+        "contentPackages": [
+            "c24c2c31-9874-4563-9292-5502ca15818e-1510669374283"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Creador de Modelos",
+        "subtitle": "",
+        "searchKeywords": "Creador de Modelos,",
+        "displayIconUrl": "sap-icon://add-document",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
